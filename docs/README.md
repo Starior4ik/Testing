@@ -23,3 +23,27 @@
 | 
 |     added tests
 ```
+
+```
+* commit 1ded248b46e92be1b9b1ea8cc31f5b9e698f338a
+| Author: Nikita Ageev <ageevn007@yandex.ru>
+| Date:   Thu Nov 13 10:14:16 2025 +0300
+| 
+|     update readme
+```
+
+```
+* commit b8026d90c205437a24d0bc63447216a6820c25fd
+| Author: Nikita Ageev <ageevn007@yandex.ru>
+| Date:   Thu Nov 13 10:28:32 2025 +0300
+| 
+|     commit
+```
+
+```
+* commit 651984aeae75bd3775ee9256243ffe18b7ca53c7 (HEAD -> main, origin/main)
+| Author: Nikita Ageev <ageevn007@yandex.ru>
+| Date:   Thu Nov 13 10:42:37 2025 +0300
+| 
+|     updated tests
+```

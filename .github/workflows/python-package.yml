@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest, windows-latest
     
     steps:
     - name: Checkout code
@@ -18,7 +18,5 @@ jobs:
     - name: Run unit tests
       run: |
         python -m unittest unittesting.py
+
     
-    - name: Test with different Python versions
-      run: |
-        echo "Testing rectangle module..."
